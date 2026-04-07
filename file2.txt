@@ -1,2 +1,3 @@
 This is file 2.
 This are again some changes in the file.
+Common changes to both file
